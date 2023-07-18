@@ -3,11 +3,12 @@ Data analysis project for Instacart, a company in the online grocery segment.
 ## Objective
 
 # Data
-We were provided with four datasets that contained all the customer information:
-
 Orders
+
 Orders_products_prior
+
 Products
+
 Customers
 
 # Tools
