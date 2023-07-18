@@ -2,7 +2,7 @@
 Data analysis project for Instacart, a company in the online grocery segment.
 ## Objective
 
-# Data
+## Data
 Orders
 
 Orders_products_prior
@@ -11,7 +11,7 @@ Products
 
 Customers
 
-# Tools
+## Tools
 Language: Python
 
 Libraries: Pandas, Numpy, Seaborn, Matplotlib, and Scipy
