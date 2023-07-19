@@ -2,7 +2,7 @@
 Data analytics project for Instacart, an online grocery company in the US and Canada.
 
 ## Objective
-
+The objective of this project was to identify the profile and behavior of the Instacart consumer, for this, we analyzed different approaches, such as, frequency of orders during the days of the week and hours of the day, age group, marital status, income among others.
 
 ## Data
 Orders
